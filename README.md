@@ -136,13 +136,20 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ---
 
-## 🎵 Spotify Playing
+## Spotify Playing
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d9nqwgw5jfuuq22lvfuklqh7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
   </a>
 </p>
+
+---
+
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -156,14 +163,7 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ---
 
-## WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhucTruong-ctrl/PhucTruong-ctrl/output/github-snake-dark.svg" />
