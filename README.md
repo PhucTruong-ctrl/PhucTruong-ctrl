@@ -1,4 +1,12 @@
-# Hi, I'm Phuc Truong
+<p align="center">
+  <a href="https://github.com/PhucTruong-ctrl">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Phuc+Truong;Software+Engineer+%7C+Full+Stack+Dev;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhucTruong-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web and mobile applications with React, Laravel, and React Native.
 
@@ -89,6 +97,18 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PhucTruong-ctrl&theme=github_dark&no-frame=true&column=-1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PhucTruong-ctrl&theme=flat&no-frame=true&column=-1" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=PhucTruong-ctrl&theme=flat&no-frame=true&column=-1" />
+  </picture>
+</p>
+
+---
+
 ## GitHub Stats
 
 <picture>
@@ -111,7 +131,15 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ---
 
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/phuctruong-ctrl)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-truong-65072b280/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bfbdarkness498@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/phuctruong)
