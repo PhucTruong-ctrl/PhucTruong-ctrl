@@ -137,6 +137,75 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2041%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.07%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 236.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 594 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                544 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌆 Daytime                1014 commits        ████████░░░░░░░░░░░░░░░░░   31.54 % 
+🌃 Evening                1396 commits        ███████████░░░░░░░░░░░░░░   43.42 % 
+🌙 Night                  261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Wednesday                394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Thursday                 984 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Friday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Saturday                 300 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Sunday                   474 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 09/02/2026 13:10:46 UTC
 <!--END_SECTION:waka-->
 
 ---
