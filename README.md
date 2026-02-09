@@ -1,3 +1,8 @@
+<!-- Custom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Phuc%20Truong&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%" alt="Header Banner"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/PhucTruong-ctrl">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Phuc+Truong;Software+Engineer+%7C+Full+Stack+Dev;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
@@ -131,10 +136,58 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ---
 
+## 🎵 Spotify Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+## Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhucTruong-ctrl&theme=github-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhucTruong-ctrl&theme=github-light&hide_border=true&area=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PhucTruong-ctrl&theme=github-light&hide_border=true&area=true" width="100%" />
+</picture>
+
+---
+
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhucTruong-ctrl/PhucTruong-ctrl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhucTruong-ctrl/PhucTruong-ctrl/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/PhucTruong-ctrl/PhucTruong-ctrl/output/github-snake.svg" width="100%" />
+</picture>
+
+---
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- No blog posts yet. Stay tuned!
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Achievements & Certifications
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| _Coming soon..._ | | |
+
+> 💡 **Tip:** Add your certifications here! Examples: AWS, Google Cloud, Meta, Coursera, etc.
 
 ---
 
@@ -143,3 +196,8 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-truong-65072b280/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bfbdarkness498@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/phuctruong)
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner"/>
+</p>
