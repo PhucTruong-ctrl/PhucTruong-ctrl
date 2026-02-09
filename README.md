@@ -102,18 +102,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PhucTruong-ctrl&theme=github_dark&no-frame=true&column=-1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PhucTruong-ctrl&theme=flat&no-frame=true&column=-1" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=PhucTruong-ctrl&theme=flat&no-frame=true&column=-1" />
-  </picture>
-</p>
-
----
-
 ## GitHub Stats
 
 <picture>
