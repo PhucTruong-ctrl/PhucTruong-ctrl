@@ -66,7 +66,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 | [**Motorcycle Marketplace**](https://github.com/PhucTruong-ctrl/motorcycle-marketplace) | Trading platform with real-time chat, seller dashboard, analytics, and transaction management | React 19, Supabase, Vite, Tailwind CSS |
 | [**Library Management System**](https://github.com/PhucTruong-ctrl/library-management-system) | Full-stack system with book catalog, user management, loan tracking, and fine calculation | Laravel 12, React 19, TypeScript, Inertia.js, PostgreSQL |
 | [**Student Management**](https://github.com/PhucTruong-ctrl/student-management-laravel) | Academic records system with authentication, profile management, and CRUD operations | Laravel 12, React, TypeScript, Inertia.js |
-| [**PvZ2 Gardendless Site**](https://github.com/PhucTruong-ctrl/pvzg_site) | Official website for PvZ2 Gardendless PC port | Vue.js, TypeScript, SCSS |
 
 ### Mobile Applications
 
@@ -92,13 +91,14 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**OpenCode Antigravity Auth**](https://github.com/PhucTruong-ctrl/opencode-antigravity-auth) | OAuth authentication for OpenCode against Google's Antigravity IDE | TypeScript, Shell |
+| [**PvZ2 Gardendless Site**](https://github.com/PhucTruong-ctrl/pvzg_site) | Official website for PvZ2 Gardendless PC port | Vue.js, TypeScript, SCSS |
+| [**Omarchy**](https://github.com/PhucTruong-ctrl/omarchy) | Beautiful, modern, opinionated Linux setup (fork) | Shell, Lua, CSS |
 
 ### Dotfiles & System Config
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Dotfiles**](https://github.com/PhucTruong-ctrl/dotfiles) | Personal Linux configuration files | Lua, Shell, GLSL, Python |
-| [**Omarchy**](https://github.com/PhucTruong-ctrl/omarchy) | Beautiful, modern, opinionated Linux setup (fork) | Shell, Lua, CSS |
 
 ---
 
@@ -170,24 +170,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhucTruong-ctrl/PhucTruong-ctrl/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/PhucTruong-ctrl/PhucTruong-ctrl/output/github-snake.svg" width="100%" />
 </picture>
-
----
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- No blog posts yet. Stay tuned!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Achievements & Certifications
-
-| Certificate | Issuer | Date |
-|-------------|--------|------|
-| _Coming soon..._ | | |
-
-> 💡 **Tip:** Add your certifications here! Examples: AWS, Google Cloud, Meta, Coursera, etc.
 
 ---
 
