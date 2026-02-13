@@ -132,9 +132,9 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -151,21 +151,21 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-🌆 Daytime                1025 commits        ████████░░░░░░░░░░░░░░░░░   31.13 % 
-🌃 Evening                1429 commits        ███████████░░░░░░░░░░░░░░   43.40 % 
-🌙 Night                  266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+🌞 Morning                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+🌆 Daytime                1041 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌃 Evening                1481 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
+🌙 Night                  266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Thursday                 1030 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Friday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Saturday                 305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Sunday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Thursday                 1098 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Friday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Saturday                 305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Sunday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 ```
 
 
@@ -175,24 +175,24 @@ Sunday                   475 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
-Markdown                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-JSON                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Python                   7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.29 % 
+Markdown                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+JSON                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-Opencode                 16 hrs 19 mins      █████████████████████████   100.00 % 
+Opencode                 16 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   13 hrs 31 mins      █████████████████████░░░░   82.85 % 
-Unknown Project          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-opencode-antigravity-auth1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-github-profile-readme    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+BHNBot                   14 hrs              █████████████████████░░░░   83.35 % 
+Unknown Project          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+opencode-antigravity-auth1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+github-profile-readme    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    16 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -208,7 +208,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 02:46:01 UTC
+ Last Updated on 13/02/2026 02:47:05 UTC
 <!--END_SECTION:waka-->
 
 ---
