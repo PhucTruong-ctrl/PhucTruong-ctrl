@@ -132,15 +132,15 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 236.7 kB Used in GitHub's Storage 
+> 📦 236.8 kB Used in GitHub's Storage 
  > 
-> 🏆 619 Contributions in the Year 2026
+> 🏆 620 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -151,19 +151,19 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌆 Daytime                1041 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
-🌃 Evening                1481 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
+🌞 Morning                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+🌆 Daytime                1042 commits        ████████░░░░░░░░░░░░░░░░░   30.99 % 
+🌃 Evening                1481 commits        ███████████░░░░░░░░░░░░░░   44.05 % 
 🌙 Night                  266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Thursday                 1098 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Friday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Thursday                 1098 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 Saturday                 305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 Sunday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 ```
@@ -175,24 +175,24 @@ Sunday                   475 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.29 % 
-Markdown                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-JSON                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Python                   8 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+Markdown                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+JSON                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Other                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Opencode                 16 hrs 48 mins      █████████████████████████   100.00 % 
+Opencode                 18 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   14 hrs              █████████████████████░░░░   83.35 % 
-Unknown Project          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-opencode-antigravity-auth1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-github-profile-readme    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+BHNBot                   15 hrs 15 mins      █████████████████████░░░░   84.49 % 
+Unknown Project          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+opencode-antigravity-auth1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+github-profile-readme    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Linux                    16 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -208,7 +208,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2026 02:47:05 UTC
+ Last Updated on 14/02/2026 02:34:00 UTC
 <!--END_SECTION:waka-->
 
 ---
