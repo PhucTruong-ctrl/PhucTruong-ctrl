@@ -132,19 +132,19 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 236.9 kB Used in GitHub's Storage 
+> 📦 237.0 kB Used in GitHub's Storage 
  > 
-> 🏆 625 Contributions in the Year 2026
+> 🏆 626 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -175,24 +175,23 @@ Sunday                   479 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   8 hrs 42 mins       ████████████░░░░░░░░░░░░░   46.31 % 
-Markdown                 3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-JSON                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Python                   7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.17 % 
+Markdown                 3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+JSON                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Opencode                 18 hrs 49 mins      █████████████████████████   100.00 % 
+Opencode                 15 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   15 hrs 41 mins      █████████████████████░░░░   83.37 % 
-Unknown Project          1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-opencode-antigravity-auth1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-github-profile-readme    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+BHNBot                   13 hrs 40 mins      ██████████████████████░░░   87.08 % 
+Unknown Project          1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+opencode-antigravity-auth35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Linux                    18 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -208,7 +207,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2026 02:42:39 UTC
+ Last Updated on 17/02/2026 02:39:23 UTC
 <!--END_SECTION:waka-->
 
 ---
