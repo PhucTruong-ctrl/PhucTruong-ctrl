@@ -175,23 +175,22 @@ Sunday                   479 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.17 % 
-Markdown                 3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-JSON                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
+JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 🔥 Editors: 
-Opencode                 15 hrs 41 mins      █████████████████████████   100.00 % 
+Opencode                 5 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   13 hrs 40 mins      ██████████████████████░░░   87.08 % 
-Unknown Project          1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-opencode-antigravity-auth35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+BHNBot                   5 hrs               █████████████████████░░░░   83.89 % 
+Unknown Project          53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Linux                    15 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -207,7 +206,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 02:39:23 UTC
+ Last Updated on 18/02/2026 02:42:32 UTC
 <!--END_SECTION:waka-->
 
 ---
