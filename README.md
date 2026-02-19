@@ -151,21 +151,21 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-🌆 Daytime                1042 commits        ████████░░░░░░░░░░░░░░░░░   30.96 % 
-🌃 Evening                1481 commits        ███████████░░░░░░░░░░░░░░   44.00 % 
-🌙 Night                  270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+🌞 Morning                578 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌆 Daytime                1044 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌃 Evening                1490 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
+🌙 Night                  270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 1098 commits        ████████░░░░░░░░░░░░░░░░░   32.62 % 
-Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Saturday                 305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Sunday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Thursday                 1112 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Friday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Saturday                 306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Sunday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
 
@@ -175,22 +175,21 @@ Sunday                   479 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
-JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Python                   1 hr 20 mins        █████████████░░░░░░░░░░░░   53.40 % 
+Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-Opencode                 5 hrs 58 mins       █████████████████████████   100.00 % 
+Opencode                 2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   5 hrs               █████████████████████░░░░   83.89 % 
-Unknown Project          53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+BHNBot                   2 hrs 10 mins       ██████████████████████░░░   86.76 % 
+Unknown Project          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 
 💻 Operating System: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -206,7 +205,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 02:42:32 UTC
+ Last Updated on 19/02/2026 02:42:06 UTC
 <!--END_SECTION:waka-->
 
 ---
