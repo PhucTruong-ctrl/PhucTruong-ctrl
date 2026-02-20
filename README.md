@@ -134,7 +134,7 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -151,21 +151,21 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                578 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-🌆 Daytime                1044 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
-🌃 Evening                1490 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
-🌙 Night                  270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+🌞 Morning                588 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+🌆 Daytime                1052 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌃 Evening                1521 commits        ███████████░░░░░░░░░░░░░░   44.33 % 
+🌙 Night                  270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Thursday                 1112 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Friday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Saturday                 306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Sunday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Thursday                 1157 commits        ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Friday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Saturday                 308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Sunday                   479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 ```
 
 
@@ -175,21 +175,21 @@ Sunday                   479 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        █████████████░░░░░░░░░░░░   53.40 % 
-Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python                   1 hr 6 mins         ██████████████░░░░░░░░░░░   54.83 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Other                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Bash                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Desktop file             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Opencode                 2 hrs 30 mins       █████████████████████████   100.00 % 
+Opencode                 2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   2 hrs 10 mins       ██████████████████████░░░   86.76 % 
-Unknown Project          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+BHNBot                   1 hr 40 mins        █████████████████████░░░░   83.52 % 
+Unknown Project          19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -205,7 +205,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 02:42:06 UTC
+ Last Updated on 20/02/2026 02:36:19 UTC
 <!--END_SECTION:waka-->
 
 ---
