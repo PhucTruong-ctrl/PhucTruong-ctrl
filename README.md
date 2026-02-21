@@ -138,7 +138,7 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 **🐱 My GitHub Data** 
 
-> 📦 237.0 kB Used in GitHub's Storage 
+> 📦 237.2 kB Used in GitHub's Storage 
  > 
 > 🏆 626 Contributions in the Year 2026
  > 
@@ -151,21 +151,21 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                588 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-🌆 Daytime                1052 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌃 Evening                1521 commits        ███████████░░░░░░░░░░░░░░   44.33 % 
-🌙 Night                  270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+🌞 Morning                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌆 Daytime                1054 commits        ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                1530 commits        ███████████░░░░░░░░░░░░░░   44.39 % 
+🌙 Night                  270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Thursday                 1157 commits        ████████░░░░░░░░░░░░░░░░░   33.72 % 
-Friday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Saturday                 308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Sunday                   479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Monday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Tuesday                  398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Wednesday                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Thursday                 1171 commits        ████████░░░░░░░░░░░░░░░░░   33.97 % 
+Friday                   351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Saturday                 309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Sunday                   479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 
 
@@ -175,21 +175,21 @@ Sunday                   479 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ██████████████░░░░░░░░░░░   54.83 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Other                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Bash                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Desktop file             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 19 mins             ██████████░░░░░░░░░░░░░░░   41.68 % 
+Bash                     16 mins             █████████░░░░░░░░░░░░░░░░   36.83 % 
+Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Desktop file             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Opencode                 2 hrs               █████████████████████████   100.00 % 
+Opencode                 46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BHNBot                   1 hr 40 mins        █████████████████████░░░░   83.52 % 
-Unknown Project          19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+BHNBot                   26 mins             ██████████████░░░░░░░░░░░   56.89 % 
+Unknown Project          19 mins             ███████████░░░░░░░░░░░░░░   43.11 % 
 
 💻 Operating System: 
-Linux                    2 hrs               █████████████████████████   100.00 % 
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -205,7 +205,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 02:36:19 UTC
+ Last Updated on 21/02/2026 02:30:03 UTC
 <!--END_SECTION:waka-->
 
 ---
