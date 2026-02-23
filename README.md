@@ -175,21 +175,16 @@ Sunday                   479 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 19 mins             ██████████░░░░░░░░░░░░░░░   41.68 % 
-Bash                     16 mins             █████████░░░░░░░░░░░░░░░░   36.83 % 
-Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Desktop file             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Opencode                 46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BHNBot                   26 mins             ██████████████░░░░░░░░░░░   56.89 % 
-Unknown Project          19 mins             ███████████░░░░░░░░░░░░░░   43.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -205,7 +200,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2026 02:42:23 UTC
+ Last Updated on 23/02/2026 02:43:45 UTC
 <!--END_SECTION:waka-->
 
 ---
