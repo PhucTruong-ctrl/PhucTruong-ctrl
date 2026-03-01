@@ -18,10 +18,7 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend**
 
@@ -85,15 +82,17 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**OpenCode Antigravity Auth**](https://github.com/PhucTruong-ctrl/opencode-antigravity-auth) | OAuth authentication for OpenCode against Google's Antigravity IDE | TypeScript, Shell |
-| [**PvZ2 Gardendless Site**](https://github.com/PhucTruong-ctrl/pvzg_site) | Official website for PvZ2 Gardendless PC port | Vue.js, TypeScript, SCSS |
-| [**Omarchy**](https://github.com/PhucTruong-ctrl/omarchy) | Beautiful, modern, opinionated Linux setup (fork) | Shell, Lua, CSS |
+| [**OpenCode Antigravity Auth**](https://github.com/PhucTruong-ctrl/opencode-antigravity-auth) |
+| [**PvZ2 Gardendless Site**](https://github.com/PhucTruong-ctrl/pvzg_site) |
+| [**Omarchy**](https://github.com/PhucTruong-ctrl/omarchy) |
 
 ### Dotfiles & System Config
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Dotfiles**](https://github.com/PhucTruong-ctrl/dotfiles) | Personal Linux configuration files | Lua, Shell, GLSL, Python |
+| [**Omarchy Dotfiles**](https://github.com/PhucTruong-ctrl/omarchy-dotfiles) |
+| [**Cachy Dotfiles (Current)**](https://github.com/PhucTruong-ctrl/cachy-dotfiles) |
+| [**Nixos Dotfiles**](https://github.com/PhucTruong-ctrl/nixos-dotfiles) |
 
 ---
 
