@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/PhucTruong-ctrl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Phuc+Truong;Software+Engineer+%7C+Full+Stack+Dev;Building+Web+%26+Mobile+Apps" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhucTruong-ctrl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
