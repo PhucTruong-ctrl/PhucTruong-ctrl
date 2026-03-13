@@ -67,25 +67,6 @@ Saturday                 406 commits         ██░░░░░░░░░�
 Sunday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -95,9 +76,6 @@ Nix                      1 repo              █░░░░░░░░░░�
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
-
-
-
 
  Last Updated on 13/03/2026 02:36:03 UTC
 <!--END_SECTION:waka-->
