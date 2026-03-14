@@ -33,38 +33,57 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 267.8 kB Used in GitHub's Storage 
+> 📦 267.9 kB Used in GitHub's Storage 
  > 
-> 🏆 821 Contributions in the Year 2026
+> 🏆 824 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-🌆 Daytime                1216 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌃 Evening                2007 commits        ███████████░░░░░░░░░░░░░░   45.23 % 
-🌙 Night                  452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌞 Morning                769 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+🌆 Daytime                1219 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌃 Evening                2014 commits        ███████████░░░░░░░░░░░░░░   45.20 % 
+🌙 Night                  454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Thursday                 1445 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
-Friday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Saturday                 406 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Sunday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Monday                   513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Tuesday                  547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Wednesday                517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Thursday                 1445 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Friday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Saturday                 408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Sunday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,7 +96,10 @@ Lua                      1 repo              █░░░░░░░░░░�
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
- Last Updated on 13/03/2026 02:36:03 UTC
+
+
+
+ Last Updated on 14/03/2026 02:34:11 UTC
 <!--END_SECTION:waka-->
 
 ---
