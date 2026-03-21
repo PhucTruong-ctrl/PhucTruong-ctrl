@@ -31,6 +31,8 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.05%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -49,8 +51,8 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ```text
 🌞 Morning                891 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-🌆 Daytime                1392 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-🌃 Evening                2456 commits        ████████████░░░░░░░░░░░░░   46.83 % 
+🌆 Daytime                1395 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+🌃 Evening                2454 commits        ████████████░░░░░░░░░░░░░   46.79 % 
 🌙 Night                  505 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -59,10 +61,10 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 Monday                   614 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 Tuesday                  608 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 Wednesday                580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Thursday                 1747 commits        ████████░░░░░░░░░░░░░░░░░   33.31 % 
-Friday                   434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Thursday                 1745 commits        ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Friday                   437 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Saturday                 527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Sunday                   734 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Sunday                   734 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 
@@ -97,7 +99,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 02:36:45 UTC
+ Last Updated on 21/03/2026 02:31:09 UTC
 <!--END_SECTION:waka-->
 
 ---
