@@ -33,13 +33,13 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 331.9 kB Used in GitHub's Storage 
  > 
-> 🏆 964 Contributions in the Year 2026
+> 🏆 968 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,20 +51,20 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ```text
 🌞 Morning                2074 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-🌆 Daytime                3021 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌃 Evening                5835 commits        ████████████░░░░░░░░░░░░░   47.87 % 
+🌆 Daytime                3019 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+🌃 Evening                5835 commits        ████████████░░░░░░░░░░░░░   47.88 % 
 🌙 Night                  1258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  1179 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Monday                   1662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  1179 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 Wednesday                1295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Thursday                 4064 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
+Thursday                 4064 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
 Friday                   998 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 Saturday                 1336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Sunday                   1649 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Sunday                   1652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
 
 
@@ -99,7 +99,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2026 03:31:01 UTC
+ Last Updated on 20/04/2026 03:34:16 UTC
 <!--END_SECTION:waka-->
 
 ---
