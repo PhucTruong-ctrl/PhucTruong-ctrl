@@ -33,7 +33,7 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,21 +50,21 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2161 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-🌆 Daytime                3063 commits        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-🌃 Evening                5979 commits        ████████████░░░░░░░░░░░░░   47.92 % 
-🌙 Night                  1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+🌞 Morning                2175 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+🌆 Daytime                3069 commits        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌃 Evening                5993 commits        ████████████░░░░░░░░░░░░░   47.90 % 
+🌙 Night                  1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Tuesday                  1175 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Wednesday                1321 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Thursday                 4280 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
-Friday                   1016 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Saturday                 1353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Sunday                   1654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Monday                   1678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Tuesday                  1189 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Wednesday                1341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Thursday                 4280 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
+Friday                   1016 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Saturday                 1353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   1654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 ```
 
 
@@ -99,7 +99,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2026 04:04:53 UTC
+ Last Updated on 12/05/2026 03:47:21 UTC
 <!--END_SECTION:waka-->
 
 ---
