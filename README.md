@@ -31,13 +31,11 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.23%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 352.1 kB Used in GitHub's Storage 
+> 📦 358.1 kB Used in GitHub's Storage 
  > 
 > 🏆 971 Contributions in the Year 2026
  > 
@@ -47,45 +45,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2175 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-🌆 Daytime                3069 commits        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-🌃 Evening                5993 commits        ████████████░░░░░░░░░░░░░   47.90 % 
-🌙 Night                  1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Tuesday                  1189 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Wednesday                1341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Thursday                 4280 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
-Friday                   1016 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Saturday                 1353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   1654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +58,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 03:57:14 UTC
+ Last Updated on 15/05/2026 04:01:50 UTC
 <!--END_SECTION:waka-->
 
 ---
