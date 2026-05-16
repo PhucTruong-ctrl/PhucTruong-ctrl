@@ -31,7 +31,9 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.24%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,6 +47,45 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌆 Daytime                3066 commits        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌃 Evening                5986 commits        ████████████░░░░░░░░░░░░░   47.91 % 
+🌙 Night                  1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Tuesday                  1182 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Wednesday                1331 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Thursday                 4280 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
+Friday                   1016 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Saturday                 1353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Sunday                   1654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,7 +99,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 04:01:50 UTC
+ Last Updated on 16/05/2026 03:42:25 UTC
 <!--END_SECTION:waka-->
 
 ---
