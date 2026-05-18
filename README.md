@@ -31,8 +31,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,45 +45,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2154 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-🌆 Daytime                3060 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌃 Evening                5972 commits        ████████████░░░░░░░░░░░░░   47.93 % 
-🌙 Night                  1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Tuesday                  1168 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Wednesday                1311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Thursday                 4280 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
-Friday                   1016 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Saturday                 1353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Sunday                   1654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +58,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 04:00:48 UTC
+ Last Updated on 18/05/2026 04:14:55 UTC
 <!--END_SECTION:waka-->
 
 ---
