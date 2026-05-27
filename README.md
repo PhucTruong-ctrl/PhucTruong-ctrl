@@ -33,7 +33,7 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.69%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,45 +47,6 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2196 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-🌆 Daytime                3111 commits        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-🌃 Evening                6050 commits        ████████████░░░░░░░░░░░░░   47.88 % 
-🌙 Night                  1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1698 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Tuesday                  1212 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Wednesday                1377 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Thursday                 4314 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
-Friday                   1020 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Saturday                 1355 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   1659 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +60,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 01:09:18 UTC
+ Last Updated on 27/05/2026 01:12:41 UTC
 <!--END_SECTION:waka-->
 
 ---
