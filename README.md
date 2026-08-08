@@ -31,6 +31,10 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2026%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -45,6 +49,51 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2414 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+🌆 Daytime                3581 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌃 Evening                6316 commits        ████████████░░░░░░░░░░░░░   46.27 % 
+🌙 Night                  1340 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1953 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  1334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Wednesday                1409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Thursday                 4579 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Friday                   1236 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Saturday                 1427 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Sunday                   1713 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,7 +107,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:57:23 UTC
+ Last Updated on 08/08/2026 02:00:30 UTC
 <!--END_SECTION:waka-->
 
 ---
