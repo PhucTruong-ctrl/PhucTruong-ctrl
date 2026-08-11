@@ -35,13 +35,13 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 360.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,093 Contributions in the Year 2026
+> 🏆 1,104 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,21 +52,21 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2414 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-🌆 Daytime                3581 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-🌃 Evening                6316 commits        ████████████░░░░░░░░░░░░░   46.27 % 
-🌙 Night                  1340 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+🌞 Morning                2494 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+🌆 Daytime                3753 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌃 Evening                6477 commits        ███████████░░░░░░░░░░░░░░   45.85 % 
+🌙 Night                  1404 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1953 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Tuesday                  1334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Wednesday                1409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Thursday                 4579 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
-Friday                   1236 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Saturday                 1427 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Sunday                   1713 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Monday                   2150 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  1398 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Wednesday                1413 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Thursday                 4615 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Friday                   1268 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Saturday                 1511 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Sunday                   1773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 ```
 
 
@@ -97,17 +97,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 10/08/2026 02:13:22 UTC
+ Last Updated on 11/08/2026 02:09:27 UTC
 <!--END_SECTION:waka-->
 
 ---
