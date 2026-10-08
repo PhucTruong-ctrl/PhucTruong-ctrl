@@ -41,11 +41,11 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 > 📦 646.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,163 Contributions in the Year 2026
+> 🏆 1,166 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -97,17 +97,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 05:23:20 UTC
+ Last Updated on 08/10/2026 05:33:46 UTC
 <!--END_SECTION:waka-->
 
 ---
