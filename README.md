@@ -39,20 +39,20 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 
 **🐱 My GitHub Data** 
 
-> 📦 646.6 kB Used in GitHub's Storage 
+> 📦 646.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,187 Contributions in the Year 2026
+> 🏆 1,189 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2802 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+🌞 Morning                2803 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 🌆 Daytime                4222 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
 🌃 Evening                7007 commits        ███████████░░░░░░░░░░░░░░   44.15 % 
 🌙 Night                  1840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
@@ -62,8 +62,8 @@ Software Engineering student at Tay Do University, Can Tho, Vietnam. I build web
 ```text
 Monday                   2527 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 Tuesday                  1596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Wednesday                1451 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Thursday                 5051 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
+Wednesday                1452 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Thursday                 5051 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
 Friday                   1618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 Saturday                 1697 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 Sunday                   1931 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
@@ -97,17 +97,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 20/10/2026 04:26:37 UTC
+ Last Updated on 21/10/2026 04:15:07 UTC
 <!--END_SECTION:waka-->
 
 ---
