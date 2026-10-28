@@ -2,26 +2,27 @@
 
 # Phúc Trương
 
-**Software developer · Backend systems · Developer tooling**
+**Frontend developer focused on UI/UX and product interfaces**
 
-I build practical software with a focus on reliable backend systems, useful tools, and automation.
+I build interactive interfaces for web and mobile products.
 
-[GitHub](https://github.com/PhucTruong-ctrl) · [Email](mailto:quachtruongphuc2004@gmail.com)
+[GitHub](https://github.com/PhucTruong-ctrl) | [Email](mailto:quachtruongphuc2004@gmail.com)
 
 </div>
 
----
+### Selected work
 
-### What I work with
+- [Room Rental Mobile](https://github.com/PhucTruong-ctrl/room-rental-mobile): Mobile room search, quick filters, listing details, and rental flows.
+- [Library Management System](https://github.com/PhucTruong-ctrl/library-management-system): Book search and filters, plus a dashboard for loans and catalog activity.
+- [Motorcycle Marketplace](https://github.com/PhucTruong-ctrl/motorcycle-marketplace): Marketplace screens and a responsive form for creating and editing listings.
 
-**Languages** — TypeScript · Python · Go · PHP · Bash  
-**Frameworks** — FastAPI · Laravel · React · Node.js  
-**Data** — PostgreSQL · Redis · Qdrant  
-**Tools** — Docker · Git · GitHub Actions · Linux
+### What I focus on
 
-### Current interests
+Responsive layouts, useful search and filters, clear forms, and feedback that helps people understand what happened after an action.
 
-Backend architecture, command-line tools, and automation that makes everyday engineering simpler.
+### Tools
+
+React, React Native, TypeScript, JavaScript, Tailwind CSS. I also use Laravel, Node.js, PostgreSQL, and Python.
 
 ### Contributions
 
